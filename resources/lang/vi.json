@@ -1,0 +1,17 @@
+{
+    "Whoops! Something went wrong.": "Rất tiếc! Đã xảy ra lỗi.",
+    "Password":"Mật khẩu",
+    "Remember me": "NHỚ EMAIL ĐĂNG NHẬP",
+    "Forgot your password?": "QUÊN MẬT KHẨU?",
+    "Log in": "ĐĂNG NHẬP",
+    "Name": "Họ và tên",
+    "Confirm Password": "Xác nhận mật khẩu",
+    "Already registered?": "Đã đăng ký - Bấm để đăng nhập",
+    "Register": "Đăng ký",
+    "Dashboard": "Bảng điều khiển",
+    "Log Out": "Thoát",
+    "Update Profile": "Cập nhật thông tin thành viên",
+    "Support" : "NHỜ HỖ TRỢ",
+    "forget_password_send_mail": "Vui lòng nhập email bạn dùng để đăng nhập  vào website, hệ thống sẽ tự động gửi mail để bạn tạo lại mật khẩu",
+    "Email Password Reset Link": "Click để gửi mail"
+}

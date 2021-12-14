@@ -1,0 +1,17 @@
+{
+    "Whoops! Something went wrong.": "Whoops! Something went wrong.",
+    "Password":"Password",
+    "Remember me": "Remember me",
+    "Forgot your password?": "Forgot your password?",
+    "Log in": "Log in",
+    "Name": "Name",
+    "Confirm Password": "Confirm Password",
+    "Already registered?": "Already registered?",
+    "Register": "Register",
+    "Dashboard": "Dashboard",
+    "Log Out": "Log Out",
+    "Update Profile": "Update Profile",
+    "Support" : "Support",
+    "forget_password_send_mail": "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.",
+    "Email Password Reset Link": "Email Password Reset Link"
+}
