@@ -4,6 +4,9 @@
   - `alias sail='[ -f sail ] && bash sail || bash vendor/bin/sail'`
 - Clone this repo and running container 
   - `git clone https://github.com/quantm/tdgs.bcntt.git`
+  - open terminal type id to to check uid and gid and update in `.env` file 
+  - WWWGROUP=gid
+  - WWWUSER=uid
   - `cd tdgs.bcntt && sail up`
 - Import `tdgs_bcntt.sql` to local database
 - Open web browser `http://localhost:APP_PORT`
